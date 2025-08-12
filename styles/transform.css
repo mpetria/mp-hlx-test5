@@ -1,4 +1,4 @@
 head {
-  action: "prepend"
-  value: "<meta name='mptest' content='mptest'>"
+  action: "prepend";
+  value: "<meta name='mptest' content='mptest'>";
 }
